@@ -1,0 +1,56 @@
+
+.bg1{
+    background-image: linear-gradient( rgb(80, 192, 211),rgb(168, 221, 237),rgb(166, 244, 213))
+}
+
+.bg4{
+    background-image: rgb(170, 203, 233), rgb(235, 195, 234);
+}
+
+.border-bg{
+    border:black;
+}
+
+.submit{
+    height: 30px;
+    width: 25px;
+    
+}
+.ab{
+    font-size: smaller;
+}
+.head{
+    font-size: larger;
+}
+.subhead{
+    font-size:medium;
+}
+.days{
+    font-size: x-small;
+    
+}
+.frcast{
+    font-size:x-small;
+   
+}
+
+.search, .submit{
+    background-color: transparent;
+    border:none;
+}
+
+.submit{
+    color: black;
+}
+
+.weather-scroll::-webkit-scrollbar{
+    display:none;
+}
+.weather-scroll{
+    -ms-overflow-style: none;
+    scrollbar-width:none;
+}
+.pp{
+    font-size: x-small;
+}
+
